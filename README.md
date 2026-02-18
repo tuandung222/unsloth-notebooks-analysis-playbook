@@ -33,6 +33,16 @@ Mục tiêu:
 - Quy trình train có thể thực hành ngay: `docs/08-grpo-training-playbook.md`
 - Sổ tay xử lý lỗi nhanh: `docs/09-grpo-troubleshooting.md`
 
+## Bộ tài liệu chuyên sâu mới (documents_unsloth_mastery)
+- Index: `documents_unsloth_mastery/00-index.md`
+- DPO/ORPO + quy trình GRPO: `documents_unsloth_mastery/01-dpo-orpo-analysis-and-grpo-process.md`
+- FastModel + HF compatibility: `documents_unsloth_mastery/02-fastmodel-internals-hf-compat.md`
+- Export playbook (merged, GGUF, TorchAO, ONNX path): `documents_unsloth_mastery/03-unsloth-export-playbook.md`
+- QAT playbook: `documents_unsloth_mastery/04-qat-training-playbook.md`
+- RL dataset/reward format: `documents_unsloth_mastery/05-rl-dataset-reward-format.md`
+- Unsloth + TRL integration: `documents_unsloth_mastery/06-unsloth-trl-rl-integration.md`
+- Tool-calling training playbook: `documents_unsloth_mastery/07-tool-calling-training-unsloth.md`
+
 ## Nhóm notebook gợi ý cho người mới RL
 - Khởi đầu: `Qwen3_(4B)-GRPO.ipynb`, `Llama3.1_(8B)-GRPO.ipynb`
 - Nâng cao reward design: `Advanced_Llama3_2_(3B)_GRPO_LoRA.ipynb`
