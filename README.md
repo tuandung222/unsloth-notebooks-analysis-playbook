@@ -21,9 +21,17 @@ Mục tiêu:
 2. `docs/01-repo-architecture.md`
 3. `docs/02-core-concepts.md`
 4. `docs/03-grpo-rl-deep-dive.md`
-5. `docs/04-planning-orchestration.md`
-6. `docs/05-learning-path.md`
-7. `docs/06-contribution-guide.md`
+5. `docs/07-grpo-notebook-analysis.md`
+6. `docs/08-grpo-training-playbook.md`
+7. `docs/09-grpo-troubleshooting.md`
+8. `docs/04-planning-orchestration.md`
+9. `docs/05-learning-path.md`
+10. `docs/06-contribution-guide.md`
+
+## Bộ tài liệu GRPO mới
+- Phân tích notebook chi tiết: `docs/07-grpo-notebook-analysis.md`
+- Quy trình train có thể thực hành ngay: `docs/08-grpo-training-playbook.md`
+- Sổ tay xử lý lỗi nhanh: `docs/09-grpo-troubleshooting.md`
 
 ## Nhóm notebook gợi ý cho người mới RL
 - Khởi đầu: `Qwen3_(4B)-GRPO.ipynb`, `Llama3.1_(8B)-GRPO.ipynb`

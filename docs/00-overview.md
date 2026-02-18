@@ -14,6 +14,7 @@
 - Nội dung README chủ yếu là danh mục link; logic thực sự nằm trong notebook và script cập nhật.
 
 ## Bản đồ đọc nhanh
-- Nếu bạn mới học RL cho LLM: đọc `03-grpo-rl-deep-dive.md` trước.
+- Nếu bạn mới học RL cho LLM: đọc `03-grpo-rl-deep-dive.md` -> `07-grpo-notebook-analysis.md` -> `08-grpo-training-playbook.md`.
+- Nếu bạn đang vướng lỗi lúc train: đọc `09-grpo-troubleshooting.md`.
 - Nếu bạn cần planning/orchestration: đọc `04-planning-orchestration.md`.
 - Nếu bạn muốn đóng góp/cập nhật notebook: đọc `06-contribution-guide.md`.
